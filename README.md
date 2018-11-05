@@ -1,2 +1,2 @@
 # bi
-Business Interligent labs and notes
+Business Interligence labs and notes
